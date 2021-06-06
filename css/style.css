@@ -84,6 +84,10 @@ main .product-list {
     width: 620px;
 }
 
+main .product-list img {
+    display: block;
+}
+
 main .product-list ul {
     display: flex;
     flex-wrap: wrap;
